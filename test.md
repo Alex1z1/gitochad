@@ -10,3 +10,5 @@
 * git remote add origin https://github.com/Alex1z1/gitochad.git
 * git branch -M main
 * git push -u origin main
+
+* Информация добавлина с сайта
