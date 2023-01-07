@@ -36,3 +36,7 @@ ___
 ![Gitlab logo](https://images.spletnik.ru/i/I/ICXOz4mxnE/1200.jpg)
 * Формат: \!\[alt text\]\(url\)
 ___
+# Ссылки:
+[GeekBrains](https://gb.ru)
+* [GeekBrains] (url)
+___
