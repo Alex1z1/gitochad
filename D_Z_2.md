@@ -32,3 +32,7 @@ ___
   * Пункт 2a
   * Пункт 2b
 ___
+# Изображения:
+![Gitlab logo](https://images.spletnik.ru/i/I/ICXOz4mxnE/1200.jpg)
+* Формат: \!\[alt text\]\(url\)
+___
