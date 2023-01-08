@@ -358,3 +358,16 @@ following command to amend the other files and folders.
 * git rebase branch_name
 
 > Эта команда изменит основу ветки с одного коммита на другой, как если бы вы начали ветку с другого коммита. В Git это достигается за счёт создания новых коммитов и применения их к указанному базовому коммиту. Необходимо понимать, что, хотя ветка и выглядит такой же, она состоит из совершенно новых коммитов.
+____
+## …or create a new repository on the command line
+* echo "# gitochad" >> README.md
+* git init
+* git add README.md
+* git commit -m "first commit"
+* git branch -M main
+* git remote add origin https://github.com/Alex1z1/gitochad.git
+* git push -u origin main
+* …or push an existing repository from the command line
+* git remote add origin https://github.com/Alex1z1/gitochad.git
+* git branch -M main
+* git push -u origin main
